@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gaffl.github.io/static/css/main.043a492d.css",
+    "main.js": "/Gaffl.github.io/static/js/main.5f0157ff.js",
+    "static/js/787.77e7a720.chunk.js": "/Gaffl.github.io/static/js/787.77e7a720.chunk.js",
+    "index.html": "/Gaffl.github.ioindex.html",
+    "main.043a492d.css.map": "/Gaffl.github.io/static/css/main.043a492d.css.map",
+    "main.5f0157ff.js.map": "/Gaffl.github.io/static/js/main.5f0157ff.js.map",
+    "787.77e7a720.chunk.js.map": "/Gaffl.github.io/static/js/787.77e7a720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043a492d.css",
+    "static/js/main.5f0157ff.js"
+  ]
+}
